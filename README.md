@@ -1,4 +1,1 @@
-philologue-styles
-=================
-
-Quelques styles que j'utilisent pour ma thèse
+Désormais tout se trouve dans philologue, cette séparation n'avait guère de sens
